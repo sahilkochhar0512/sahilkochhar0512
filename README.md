@@ -10,8 +10,11 @@ I'm a full stack Data Scientist...
 1. Python
 2. MYSQL
 3. Machine Learning
-4. Deep Learning
-5. Data Science
+4. React.js
+5. Javascript
+6. MongoDB
+7. Node.js
+8. Data Science
 
 
 ## 🔗 Links
